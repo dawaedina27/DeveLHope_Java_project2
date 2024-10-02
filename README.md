@@ -1,4 +1,4 @@
-** Wednesday 02/10/2024 Tasks**
+<stron>Wednesday 02/10/2024 Tasks</strong>
 
 1.
    a. Create increase money and decrease money function from manager
@@ -8,7 +8,7 @@
 3.  create abstract class Animal and try to create 3 object from that.
 
 4.
-   a. create interface and push codes to github
+     a. create interface and push codes to github
 
-  b. Create Animal interface and it should have eat, drink, sleep, workout functions in the interface.
-  c. create a Github repo and send all your codes to there.
+     b.  Create Animal interface and it should have eat, drink, sleep, workout functions in the interface.
+     c. create a Github repo and send all your codes to there.
