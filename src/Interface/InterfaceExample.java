@@ -1,6 +1,8 @@
 package Interface;
 
-interface InterfaceExample {
-    final int i =20;
-    int move();
+public interface Animal {
+    void eat();
+    void drink();
+    void sleep();
+    void workout();
 }
